@@ -1,5 +1,9 @@
 # Adblocker
 
+## 0.1.11.1
+*2018-10-15*
+  * Allow disable MutationObserver
+
 ## 0.1.11
 
 *2018-06-14*
